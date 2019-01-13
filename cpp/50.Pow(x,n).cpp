@@ -1,6 +1,6 @@
 /*
 Date : 2016.7.11
-Source : https://leetcode.com/problems/powx-n/
+Link : https://leetcode.com/problems/powx-n/
 Difficulty : Medium
 Description : Implement pow(x, n).
 */

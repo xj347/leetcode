@@ -1,6 +1,6 @@
 /*
 Date : 2019.1.13
-Source : https://leetcode.com/problems/non-decreasing-array/
+Link : https://leetcode.com/problems/non-decreasing-array/
 Difficulty : Easy
 Description :
     Given an array with n integers, your task is to check if it could become non-decreasing by modifying at most 1 element.

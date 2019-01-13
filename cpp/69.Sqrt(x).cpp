@@ -1,6 +1,6 @@
 /*
 Date : 2016.7.12
-Source : https://leetcode.com/problems/sqrtx/
+Link : https://leetcode.com/problems/sqrtx/
 Difficulty : Medium
 Description : Implement int sqrt(int x). Compute and return the square root of x.
 */

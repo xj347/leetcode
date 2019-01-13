@@ -1,6 +1,6 @@
 /*
 Date : 2016.7.15
-Source : https://leetcode.com/problems/jump-game/
+Link : https://leetcode.com/problems/jump-game/
 Difficulty : Medium
 Description :  Given an array of non-negative integers, you are initially positioned at the first index of the array.
 Each element in the array represents your maximum jump length at that position.
