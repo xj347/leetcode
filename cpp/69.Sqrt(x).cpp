@@ -1,5 +1,4 @@
 /*
-Author : xia jie
 Date : 2016.7.12
 Source : https://leetcode.com/problems/sqrtx/
 Difficulty : Medium

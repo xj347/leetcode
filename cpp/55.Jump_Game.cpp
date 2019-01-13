@@ -1,5 +1,4 @@
 /*
-Author : xia jie
 Date : 2016.7.15
 Source : https://leetcode.com/problems/jump-game/
 Difficulty : Medium
